@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "See Tình  (Cucak Remix)",
+  "base_artist": "Hoàng Thùy Linh",
+  "createdAt": "2025-12-28T08:32:44.872768Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "See Tình (Cucak Remix)",
+      "artist": "Hoàng Thuỳ Linh",
+      "has_synced": true,
+      "path": "select/01_See_Tình_(Cucak_Remix)_Hoàng_Thuỳ_Linh.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "See Tình  (Cucak Remix)",
+      "artist": "Hoàng Thùy Linh",
+      "has_synced": true,
+      "path": "select/02_See_Tình_(Cucak_Remix)_Hoàng_Thùy_Linh.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "See Tình - Cucak Remix",
+      "artist": "Hoang Thuy Linh",
+      "has_synced": true,
+      "path": "select/03_See_Tình_-_Cucak_Remix_Hoang_Thuy_Linh.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "See Tình (Cucak Remix)",
+      "artist": "Hoàng Thùy Linh",
+      "has_synced": true,
+      "path": "select/04_See_Tình_(Cucak_Remix)_Hoàng_Thùy_Linh.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "See Tình - Cucak Remix (Cukak Remix)",
+      "artist": "Hoang Thuy Linh",
+      "has_synced": true,
+      "path": "select/05_See_Tình_-_Cucak_Remix_(Cukak_Remix)_Hoang_Thuy_Linh.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "See Tình - Cucak Remix - Cukak Remix",
+      "artist": "Hoang Thuy Linh, Cukak",
+      "has_synced": false,
+      "path": "select/pl_01_See_Tình_-_Cucak_Remix_-_Cukak_Remix_Hoang_Thuy_Linh,_Cukak.txt"
+    }
+  ]
+}
